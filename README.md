@@ -1,4 +1,4 @@
-# 🛠️ TMotor Command and Status Converter
+# 🛠️ CubeMars Motor Command and Status Converter
 
 ---
 
